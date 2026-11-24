@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/naufyy/makefun-absurd-invention/rank.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
 [![reward](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/naufyy/makefun-absurd-invention/reward.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
 
-The Butler Rod: `main.py` writes to `/output/entry.txt` a one-sentence pitch for a six-metre telescopic brass arm that shoots out of your microwave, finds you in whatever room you fled to, and taps you politely on the shoulder.
+The Butler Rod is a six-metre telescopic brass arm that shoots out of your microwave, finds you in whatever room you fled to, and taps you politely on the shoulder. `main.py` writes the one-sentence pitch to `/output/entry.txt`.
 
 ## Run it
 
